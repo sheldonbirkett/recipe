@@ -24,3 +24,5 @@ last line changed locally
 *Italics text*
 
 __Bold text__
+
+![Carrot Cake](recipe.jpg "Carrot Cake")
