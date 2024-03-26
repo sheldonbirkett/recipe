@@ -20,3 +20,7 @@ last line changed locally
 + Two
 + Three
 + Four
+
+*Italics text*
+
+__Bold text__
